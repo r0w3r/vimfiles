@@ -1,751 +1,0 @@
-# Ten plik viminfo zosta≈Ç wygenerowany przez Vima 8.2.
-# Mo≈ºesz go ostro≈ºnie edytowaƒá!
-
-# Viminfo version
-|1,4
-
-# Warto≈õƒá 'encoding' w czasie zapisu tego pliku
-*encoding=utf-8
-
-
-# hlsearch on (H) or off (h):
-~h
-# Ostatni Wyszukiwany wzorzec:
-~MSle0~/inputrc
-
-# Ostatni Podstawienie Wyszukiwany wzorzec:
-~MSle0&pl_PL.ISO-8859-2
-
-# Ostatni podstawiany ciƒÖg:
-$
-
-# Wiersz polece≈Ñ Historia (od najnowszych po najstarsze):
-:q
-|2,0,1627478799,,"q"
-:e $MYVIMRC
-|2,0,1627478738,,"e $MYVIMRC"
-:wq
-|2,0,1627478728,,"wq"
-:set norelativenumber
-|2,0,1627478704,,"set norelativenumber"
-:set nonumber
-|2,0,1627477917,,"set nonumber"
-:Q
-|2,0,1627477588,,"Q"
-:e scp bike123@basrsavia.com:.vim/vimrc
-|2,0,1627477577,,"e scp bike123@basrsavia.com:.vim/vimrc"
-:vsplit 
-|2,0,1627477455,,"vsplit "
-:set mouse?
-|2,0,1627477424,,"set mouse?"
-:set mouse>
-|2,0,1627477419,,"set mouse>"
-:set vms?
-|2,0,1627476774,,"set vms?"
-:source %
-|2,0,1627098075,,"source %"
-:w
-|2,0,1627098068,,"w"
-:W
-|2,0,1627098066,,"W"
-:q!
-|2,0,1627063052,,"q!"
-:e tmp.f
-|2,0,1627062149,,"e tmp.f"
-:e tmp
-|2,0,1627062124,,"e tmp"
-:vsplit
-|2,0,1627062101,,"vsplit"
-:ssh bike123@abusers.pl
-|2,0,1626888626,,"ssh bike123@abusers.pl"
-:Vex
-|2,0,1626888610,,"Vex"
-:Explore
-|2,0,1626884608,,"Explore"
-:q1
-|2,0,1626803143,,"q1"
-:-1read $HOME/.vim/.sh
-|2,0,1626802910,,"-1read $HOME/.vim/.sh"
-:let $VIMRUNTIME
-|2,0,1626802141,,"let $VIMRUNTIME"
-:below terminal
-|2,0,1625215115,,"below terminal"
-:bottom terminal
-|2,0,1625215092,,"bottom terminal"
-:a
-|2,0,1624784282,,"a"
-:17
-|2,0,1615130961,,"17"
-:WQ
-|2,0,1604133895,,"WQ"
-:-1read $HOME/.vim/perl.pl
-|2,0,1604133563,,"-1read $HOME/.vim/perl.pl"
-:-lread $HOME/.vim/perl.pl
-|2,0,1604133506,,"-lread $HOME/.vim/perl.pl"
-:"Wq
-|2,0,1600882546,,"\"Wq"
-:Sex
-|2,0,1600697181,,"Sex"
-:vexplore
-|2,0,1600696498,,"vexplore"
-:help lexpr
-|2,0,1600696458,,"help lexpr"
-:lexpr
-|2,0,1600696435,,"lexpr"
-:lexpr /home/bike123
-|2,0,1600696423,,"lexpr /home/bike123"
-:lexpr ~/
-|2,0,1600696404,,"lexpr ~/"
-::q
-|2,0,1600696146,,":q"
-:-1read ${HOME}/.vim/perl.pl
-|2,0,1591480219,,"-1read ${HOME}/.vim/perl.pl"
-:read ${HOME}/.vim/perl.pl
-|2,0,1591480195,,"read ${HOME}/.vim/perl.pl"
-:Q!
-|2,0,1591215921,,"Q!"
-:edit .
-|2,0,1590957744,,"edit ."
-:Vexplore
-|2,0,1590922977,,"Vexplore"
-:explore
-|2,0,1590922918,,"explore"
-:7,9y
-|2,0,1590788841,,"7,9y"
-:d5j
-|2,0,1590788673,,"d5j"
-:d20,25j
-|2,0,1590788662,,"d20,25j"
-:24j
-|2,0,1590788586,,"24j"
-:25j
-|2,0,1590788564,,"25j"
-
-# Szukany ciƒÖg Historia (od najnowszych po najstarsze):
-? ^
-|2,1,1627098091,,"^"
-? @$
-|2,1,1627062125,,"@$"
-??\a
-|2,1,1626688574,63,"\\a"
-?/inputrc
-|2,1,1600696737,47,"inputrc"
-? \<bashrc\>
-|2,1,1599981310,,"\\<bashrc\\>"
-?/k\(n\|r\|g\|a\)\(n\|r\|g\|a\)\(n\|r\|g\|a\)u\(n\|r\|g\|a\)
-|2,1,1556486699,47,"k\\(n\\|r\\|g\\|a\\)\\(n\\|r\\|g\\|a\\)\\(n\\|r\\|g\\|a\\)u\\(n\\|r\\|g\\|a\\)"
-?/k(n|r|g|a)(n|r|g|a)(n|r|g|a)u(n|r|g|a)
-|2,1,1556486662,47,"k(n|r|g|a)(n|r|g|a)(n|r|g|a)u(n|r|g|a)"
-?/*
-|2,1,0,47,"*"
-?/set paste
-|2,1,0,47,"set paste"
-? \<bin\>
-|2,1,0,,"\\<bin\\>"
-?/!bin/bash
-|2,1,0,47,"!bin/bash"
-? \<ssh\>
-|2,1,0,,"\\<ssh\\>"
-?/key_nkp
-|2,1,0,47,"key_nkp"
-?/mostki
-|2,1,0,47,"mostki"
-?/cd
-|2,1,0,47,"cd"
-?/loot
-|2,1,0,47,"loot"
-?/see
-|2,1,0,47,"see"
-?/se
-|2,1,0,47,"se"
-?/CanSee
-|2,1,0,47,"CanSee"
-?/UH
-|2,1,0,47,"UH"
-?/rozpo
-|2,1,0,47,"rozpo"
-?/rozpoczni
-|2,1,0,47,"rozpoczni"
-?/rozpocznij g
-|2,1,0,47,"rozpocznij g"
-?/107
-|2,1,0,47,"107"
-?/E-book
-|2,1,0,47,"E-book"
-?/E-bo
-|2,1,0,47,"E-bo"
-?/Dir
-|2,1,0,47,"Dir"
-?/dir
-|2,1,0,47,"dir"
-?/book
-|2,1,0,47,"book"
-?/:q
-|2,1,0,47,":q"
-?/skilllevel
-|2,1,0,47,"skilllevel"
-?/DZE_DamageBeforeMaint
-|2,1,0,47,"DZE_DamageBeforeMaint"
-?/spawn
-|2,1,0,47,"spawn"
-?/Epoch
-|2,1,0,47,"Epoch"
-?/case
-|2,1,0,47,"case"
-?/Profile
-|2,1,0,47,"Profile"
-?/profile
-|2,1,0,47,"profile"
-?/Trade
-|2,1,0,47,"Trade"
-?/trader
-|2,1,0,47,"trader"
-?/class Item
-|2,1,0,47,"class Item"
-?/_unit_
-|2,1,0,47,"_unit_"
-?/Tanny_PMC
-|2,1,0,47,"Tanny_PMC"
-?/createAgent
-|2,1,0,47,"createAgent"
-?/Gold
-|2,1,0,47,"Gold"
-?/plot
-|2,1,0,47,"plot"
-?/Di
-|2,1,0,47,"Di"
-?/wLo
-|2,1,0,47,"wLo"
-?/mem
-|2,1,0,47,"mem"
-?/<title>
-|2,1,0,47,"<title>"
-?/wlo
-|2,1,0,47,"wlo"
-
-# Wyra≈ºenie Historia (od najnowszych po najstarsze):
-
-# Wiersz wprowadze≈Ñ Historia (od najnowszych po najstarsze):
-
-# Debug Line Historia (od najnowszych po najstarsze):
-
-# Rejestry:
-"0	LINE	0
-	set scrolloff=5
-	set signcolumn=yes
-|3,0,0,1,2,0,1627062970,"set scrolloff=5","set signcolumn=yes"
-""1	LINE	0
-	3032
-<nn7tanÄcnuÍen)knn¬mn:vnnU{onnCunàUƒÖôdpnÍƒnt˚≈anÕelnynn#*z≈	nn‹cnsÿjnÃlns‡mkÑnn snÍƒnÏ≈nncnË˚eÍin"mn=<on$ƒn0≈Çnn˛an6enonnCun@–√nnRin=:cnÃltnÍƒnu≈nnCannπennCoynn≈ƒncnn¬mnnn˛annCennChnonnCynwznKƒÇo√bÇpnn7tancnòeihkn"mnänn0onnCunnCynG√n0≈nnttan‹cnË˚en)knÃlnn´mnvnn=<on snÑ'ƒnuæ≈≥bncnQenõkn"mn0≈niznUHannëABCDEGIJKMNPQRSUVWYZbcdehikmpRluBOmediantaVis≈tnn0ann0onn0yƒnn0Önn0ôõcinn0etoCAnn0DCTnn0hMonnKcnn0tEMPShoPinn0KSSpnn0SLnnäiSnn0pAnn0DRnn0Tnn0Lnn0AaeizimlerCaeozhryslernnn0aeonnMznn0mwnn0iChryslenn.rmChryslernnµewiChryslernn∑oeChryslernnMzVitnn0oCaprniUnRnn0PBnnlMquOinn0RuiLibnnMrroCitnn0yHKUemnn0zKFinn0TnnKcnnnG≈Åagnnn›inn∑onn0unn0VnèbMniGnn0Wten=rCKMWo≈õcinƒnn0Öyson}kMWo≈õcinƒnn0ÖysonóknnlMPRWinn0GRnnÜiCEnKHKPSnn\WZacnden∂iyhnnÜANnnxiOnn0lnn0annpinn|WinnxOcsADGLrthurnannµeonn0ynnMz√nnn\cnnπmnn0mwinnn0e≥nn0wonwaldnn˘annµen˝onn0ynnKzn√en‘lrnaaeuinnMnannn˘annµennMin˝onn0yn√n,hterCarnn0dCDEKLMQTarthnynnn\cmnnn0ieynn˘aen˝onn0un√nnn0monaldnn˘annµeonn0ynnKzn√nn0mnnπwn,winsnCean8uruennnn0annµennMinn∑oghln.iiln,luen.eiern,nSnnàQpannMcetWarnnennMz	GKRWZannxiorn¥NNn‘OWiMinn0Jinn0Unn0NindTSFTn∫VKnn`Mn‘ogyeMakernn˘annµenÉonn0ynnMzn√Palnnn0annµenn∑onn0uswtScripnnKctnnnµenn∑onn0uerBPooknn˘ainÉonn0un√nnnµeoinnn0ticewaterhouseCoopernn0suickTimnn0ennMin+dedHannKctnnn0annµenn∑oDGJPdKPnnàin–PPDonn0rATinn0Fn RKMOn∑W≈n∫Fnn0ainnn0GnnnKn‘önnxion InΩACPSionnpzan`n≈Ñstnwn inoznn0Nnn0SrdPerrfecnnKctnn˘annµenÉonn0yn√ensouTunnMbABCinnxKn+ioWnnWinÌhruLionnannµennMinÉonn0unn0yn√nn\cnnπmRn∂PBnASnn0EBnn0VaanysyJnõenn.PPTnyounne	nn0Ann0Bnn0Cnn0GnKHnn0Jnn0Nnn0VWnnn0Ann0hnn0ABnnπCnKHnn0Nnn0Rnn0Vnn0Wann_knn0Hnnnnn
-|3,1,1,1,1,0,1627098091,>3037
-|<"\n\n7ta\nÄc\nuÍe\n)k\n\n¬m\n:vn\nU{o\n\nCu\nàUƒÖôdp\nÍƒ\nt˚≈a\nÕel\nyn\n#*z≈	\n\n‹c\nsÿj\nÃl\ns‡mkÑn\n s\nÍƒ\nÏ≈\n\nc\nË˚eÍi\n\"m\n=<o\n$ƒ\n0≈Ç\n\n˛a\n6e\no\n\nCu\n@–√\n\nRi\n=:c\nÃlt\nÍƒ\nu≈\n\nCa\n\nπe\n\nCoy\n\n≈ƒ\nc\n\n¬m\n\n\n˛a\n\nCe\n\nCh\no\n\nCy\nwz\nKƒÇo√bÇp\n\n7ta\nc\nòeihk\n\"m\nän\n0o\n\nCu\n\nCy\nG√\n0≈\n\ntta\n‹c\nË˚e\n)k\nÃl\n\n´m\nvn\n=<o
-|<\n s\nÑ'ƒ\nuæ≈≥b\nc\nQe\nõk\n\"m\n0≈\niz\nUHa\n\nëABCDEGIJKMNPQRSUVWYZbcdehikmpRluBOmedia\ntaVis≈t\n\n0a\n\n0o\n\n0yƒ\n\n0Ö\n\n0ôõci\n\n0etoCA\n\n0DCT\n\n0hMo\n\nKc\n\n0tEMPShoPi\n\n0KSSp\n\n0SL\n\näiS\n\n0pA\n\n0DR\n\n0T\n\n0L\n\n0AaeizimlerCaeozhrysler\n\n\n0aeo\n\nMz\n\n0mw\n\n0iChrysle\n\n.rmChrysler\n\nµewiChrysler\n\n∑oeChrysler\n
-|<\nMzVit\n\n0oCapr\niU\nR\n\n0PB\n\nlMquOi\n\n0RuiLib\n\nMrroCit\n\n0yHKUem\n\n0zKFi\n\n0T\n\nKc\n\nnG≈Åag\n\n\n›i\n\n∑o\n\n0u\n\n0V\nèbMniG\n\n0Wte\n=rCKMWo≈õci\nƒ\n\n0Öyso\n}kMWo≈õci\nƒ\n\n0Öyso\nók\n\nlMPRWi\n\n0GR\n\nÜiCE\nKHKPS\n\n\\WZac\nde\n∂iyh\n\nÜAN\n\nxiO\n\n0l\n\n0a\n\npi\n\n|Wi\n\nxOcsADGLrthur\na\n\nµeo\n\n0y\n\nMz√\n\n\n\\c\n
-|<\nπm\n\n0mwi\n\n\n0e≥\n\n0wonwald\n\n˘a\n\nµe\n˝o\n\n0y\n\nKz\n√e\n‘lr\naaeui\n\nMnan\n\n˘a\n\nµe\n\nMi\n˝o\n\n0y\n√\n,hterCar\n\n0dCDEKLMQTarthny\n\n\n\\cm\n\n\n0iey\n\n˘ae\n˝o\n\n0u\n√\n\n\n0monald\n\n˘a\n\nµeo\n\n0y\n\nKz\n√\n\n0m\n\nπw\n,wins\nCea\n8uruen\n\n\n0a\n\nµe\n\nMi\n\n∑oghl\n.iil\n,lue\n.eier\n,nS\n\nàQpa\n\nMcetWar\n
-|<ne\n\nMz	GKRWZa\n\nxior\n¥NN\n‘OWiMi\n\n0Ji\n\n0U\n\n0Ni\ndTSFT\n∫VK\n\n`M\n‘ogyeMaker\n\n˘a\n\nµe\nÉo\n\n0y\n\nMz\n√Pal\n\n\n0a\n\nµe\n\n∑o\n\n0uswtScrip\n\nKct\n\n\nµe\n\n∑o\n\n0uerBPook\n\n˘ai\nÉo\n\n0u\n√\n\n\nµeoin\n\n0ticewaterhouseCooper\n\n0suickTim\n\n0e\n\nMi\n+dedHa\n\nKct\n\n\n0a\n\nµe\n\n∑oDGJPdKP\n\nài\n–PPDo\n\n0rATi\n\n
-|<0F\n RKMO\n∑W≈\n∫F\n\n0ai\n\n\n0G\n\nnK\n‘ö\n\nxio\n I\nΩACPSio\n\npza\n`n≈Ñst\nw\n i\noz\n\n0N\n\n0SrdPerrfec\n\nKct\n\n˘a\n\nµe\nÉo\n\n0y\n√e\nsouTu\n\nMbABCi\n\nxK\n+ioW\n\nWi\nÌhruLion\na\n\nµe\n\nMi\nÉo\n\n0u\n\n0y\n√\n\n\\c\n\nπmR\n∂PB\nAS\n\n0EB\n\n0Vaa\nysyJ\nõe\n\n.PPT\nyoun\ne	\n\n0A\n\n0B\n\n0C\n\n0G\nKH\n\n0J\n\n0N\n\n0VW\n
-|<\n\n0A\n\n0h\n\n0AB\n\nπC\nKH\n\n0N\n\n0R\n\n0V\n\n0Wan\n_k\n\n0H\n\n\n\n\n"
-"2	LINE	0
-	1460
-<˝yn¬znNƒnmMinnCenΩÑyn◊anòenXknonnCunanVBeinnIonnIunynn≈ƒnn]ann∑cn¥Tenn¬mn^ãsn@–√nn≈ƒnmni##enK#acnnπein"mnon{snynn≈ƒn0≈n9an!ÿeninÄonuzné√n'Ûanåyncen)knÃlnn´mon s%–unÑ'ƒn>ˇ≈nnn˛an]cnnCef_in%kon	unnCyznKƒnn’“dnnCmn´Õrn◊kwaÑáln@nn^nn`vrcnnCjÿRnn˙≈n¶(cnn≠knnÚln;;n≈ª[ÇnnCannπe$inLBonynn≈ƒn√ZckprnßéstnI≈onnÚl<¸s≈nÑÇnæõ≈n*YÇoFi√dnnÚcnQen0ãknennnn˛an6enonnCunnCynG√nnCannπeinGonynn≈ƒnnòe	@knnCmpnn·wiÚÍsÇ∫n(aan˝bnn˜cãÃekon	un£yynnt√nNƒnAanionnt√nNƒnnmwÛ?annπen[§inynn≈ƒnnn´bnmw“annπenÊ$in"snynn≈ƒnÊi≥r≈aw:Ûin"sÇcktwnäƒn=7ein=<on$ƒnan‹cnÑdenÃlnn´mon s∆Ùu'iƒn>ˇ≈nn∑cn)knn·mnnænn>ˇ≈n‹\cn}PjnÃlnnÍƒn˙≈àxinnCmnËìpn(˝tnywinÃlnØUnÛYwn>ˇ≈ewnnxcn¥enUinkn}s	aFíekn†ln§snon{snynn≈ƒn3ÿcn£≥k«wn&•≈nAanëin…°onun˜√nbnÊ≤cÌdnh#opo;rswznI≈nI}en«»irnô=u«/uznüxƒpÑeuás«BanüÒinÄl+xounäznüÒkª(onù¯znK]on"sinØâ≈e«Kln^mni
-|3,0,2,1,1,0,1627098091,>1464
-|<"˝y\n¬z\nNƒ\nmMi\n\nCe\nΩÑy\n◊a\nòe\nXkno\n\nCu\na\nVBei\n\nIo\n\nIu\ny\n\n≈ƒ\n\n]a\n\n∑c\n¥Te\n\n¬m\n^ãs\n@–√\n\n≈ƒ\nm\ni##e\nK#ac\n\nπei\n\"mno\n{s\ny\n\n≈ƒ\n0≈\n9a\n!ÿe\ni\nÄo\nuz\né√\n'Ûa\nåy\nce\n)k\nÃl\n\n´mo\n s%–u\nÑ'ƒ\n>ˇ≈\n\n\n˛a\n]c\n\nCef_i\n%ko\n	u\n\nCyz\nKƒ\n\n’“d\n\nCm\n´Õr\n◊kwaÑál\n@n\n^n\n`vrc\n\nCjÿRn\n˙≈\n¶(c\n\n≠k\n\nÚl\n;;n≈ª[Ç\n\n
-|<Ca\n\nπe$i\nLBo\ny\n\n≈ƒ\n√Zckpr\nßést\nI≈o\n\nÚl<¸s≈\nÑÇ\næõ≈\n*YÇoFi√d\n\nÚc\nQe\n0ãk\nen\n\n\n˛a\n6eno\n\nCu\n\nCy\nG√\n\nCa\n\nπei\nGo\ny\n\n≈ƒ\n\nòe	@k\n\nCmp\n\n·wiÚÍsÇ∫\n(aa\n˝b\n\n˜cãÃeko\n	u\n£yy\n\nt√\nNƒ\nAa\nio\n\nt√\nNƒ\n\nmwÛ?a\n\nπe\n[§i\ny\n\n≈ƒ\n\n\n´b\nmw“a\n\nπe\nÊ$i\n\"s\ny\n\n≈ƒnÊi≥r≈aw:Ûi\n\"sÇcktw\näƒ\n=7ei\n=<o\n$ƒ
-|<\na\n‹c\nÑde\nÃl\n\n´mo\n s∆Ùu'iƒ\n>ˇ≈\n\n∑c\n)k\n\n·m\n\næn\n>ˇ≈\n‹\\c\n}Pj\nÃln\nÍƒ\n˙≈àxi\n\nCm\nËìp\n(˝t\nywi\nÃl\nØUnÛYw\n>ˇ≈ew\n\nxc\n¥e\nUi\nk\n}s	aFíek\n†l\n§sno\n{s\ny\n\n≈ƒ\n3ÿc\n£≥k«w\n&•≈\nAa\nëi\n…°o\nu\n˜√\nb\nÊ≤cÌd\nh#opo;rswz\nI≈\nI}e\n«»ir\nô=u«/uz\nüxƒpÑeuás«Ba\nüÒi\nÄl+xou\näz\nüÒkª(o\nù¯z\nK]o\n\"si\nØâ≈e«Kl\n^m\ni"
-"3	LINE	0
-	677
-<nnAanÌenøkonyz√≈ıfkmnsw$G≈on.;mnan4HsnnIannjeninnIonL8snnIuinnåane≥wnnn˜cn:en<kÇ+äaonéÉlnncnen"mzÀƒn0≈aeinynknsn—≈nnn˛an3i–onnCunG√nn‹cn†ntnnn˛annÚcnQeßeknonnCynKƒnn“bn7ns≈n:vtnxûÑnŸõπeü∫inanendkon<uz	nˆ8cfnÅ∆knn·mnÇyrntnnCu	nn9annÚcnQeinn˘kpåonynNƒnnã(ann∑cn¥Tenn¬mnàUƒnqcdnÉtµÿo	nb˝;k˝Bmnpn<@sn%tn‹wusnnnÔan6ennÚionnCunnCynG√nplnnCmnn·wdnn9an§o
-|3,0,3,1,1,0,1627098091,>676
-|<"\n\nAa\nÌe\nøko\nyz√≈ıfkm\nsw$G≈o\n.;m\na\n4Hs\n\nIa\n\nje\ni\n\nIo\nL8s\n\nIui\n\nåa\ne≥w\n\n\n˜c\n:e\n<kÇ+äao\néÉl\n\nc\ne\n\"mzÀƒ\n0≈aei\nynk\ns\n—≈\n\n\n˛a\n3i–o\n\nCu\nG√\n\n‹c\n†nt\n\n\n˛a\n\nÚc\nQeßek\no\n\nCy\nKƒ\n\n“b\n7ns≈\n:vt\nxûÑ\nŸõπeü∫i\na\ne\ndko\n<uz	\nˆ8cf\nÅ∆k\n\n·mnÇyr\nt\n\nCu	\n\n9a\n\nÚc\nQei\n\n˘kpåo\n
-|<y\nNƒ\n\nã(a\n\n∑c\n¥Te\n\n¬m\nàUƒ\nqcd\nÉtµÿo	\nb˝;k˝Bmnp\n<@s\n%t\n‹wus\n\n\nÔa\n6e\n\nÚio\n\nCu\n\nCy\nG√\npl\n\nCm\n\n·wd\n\n9a\n§o"
-"4	LINE	0
-	357
-<nnnÔannxcnòekon<unnCynnÚzné√ni˝an2óionnCun˜√nnzƒnmÃwnnCmwn…Ta"Ùcnnπe—iisznnnConynn≈ƒn∫}bcdgjlmnt“nrtwnî≈znÍƒ≈n]chin%kzÔÒlnonn˛an#*cneonnCun@–√n&•≈dnnCmprn€wancjnˆ°w¢öin.Æy	nncW"en∏.ln"mnu¥onwòyn$ƒn0≈
-|3,0,4,1,1,0,1627098091,"\n\n\nÔa\n\nxc\nòeko\n<u\n\nCy\n\nÚz\né√\ni˝a\n2óio\n\nCu\n˜√\n\nzƒ\nmÃw\n\nCmw\n…Ta\"Ùc\n\nπe—iiszn\n\nCo\ny\n\n≈ƒ\n∫}bcdgjlm\nt“nrtw\nî≈z\nÍƒ≈\n]chi\n%kzÔÒl\no\n\n˛a\n#*c\neo\n\nCu\n@–√\n&•≈d\n\nCmpr\n€wa\ncj\nˆ°w¢öi\n.Æy	\n\ncW\"e\n∏.l\n\"m\nu¥o\nwòy\n$ƒ\n0≈"
-"5	LINE	0
-	in‚on{snynn≈ƒr
-|3,0,5,1,1,0,1627098091,"i\n‚o\n{s\ny\n\n≈ƒr"
-"6	LINE	0
-	b∂≥gnnCmnpn(˝tÂåwainƒcﬂünw#E≈nnCannπe"
-|3,0,6,1,1,0,1627098091,"b∂≥g\n\nCm\np\n(˝tÂåwai\nƒcﬂünw#E≈\n\nCa\n\nπe\""
-"7	LINE	0
-	445
-<nn9ac{Benu\knn¬mnV∞onunn≈ƒnnIann´cnnChnn≠knnIonnIynh6znnzƒnnn˛a∆ÊinœonnCynKƒnanëinÉonun˜√alnnn˛aneineonnCunG√nn$snnznp≈I∂mnv8wnczannÚcnQeinn˘k%ãnËÓpÇºnan˝bnenonŒynn˝bnnCmwn˚≈nn2ÅannÚcnQennÚinn˘knÀ√on}snynKƒn^0elnn˛anennCionnCuné√n
-|3,0,7,1,1,0,1627098091,>445
-|<"\n\n9ac{Be\nu\\k\n\n¬mnV∞o\nu\n\n≈ƒ\n\nIa\n\n´c\n\nCh\n\n≠k\n\nIo\n\nIy\nh6z\n\nzƒ\n\n\n˛a∆Êi\nœo\n\nCy\nKƒ\na\nëi\nÉo\nu\n˜√al\n\n\n˛a\nei\neo\n\nCu\nG√\n\n$s\nnz\np≈I∂m\nv8w\ncza\n\nÚc\nQei\n\n˘k%ãnËÓpÇº\na\n˝b\ne\no\nŒy\n\n˝b\n\nCmw\n˚≈\n\n2Åa\n\nÚc\nQe\n\nÚi\n\n˘k\nÀ√o\n}s\ny\nKƒ\n^0el\n\n˛a\ne\n\nCio\n\nCu\né√\n"
-"8	LINE	0
-	268
-<nnn˛an“bnnCennCinnCjn)knonKƒn◊≈nannÚié≈nnonnCynKƒnnn∑cnn·mnnnn˛an6en0`in0onnCynG√nan2ÖeˇÇfknonnCunnCynnÚznG√nn∑cn~5kn lnn·mwn&•≈nnnÚcnQeinn˘kn"s
-|3,0,8,1,1,0,1627098091,"\n\n\n˛a\n“b\n\nCe\n\nCi\n\nCj\n)k\no\nKƒ\n◊≈\na\n\nÚié≈n\no\n\nCy\nKƒ\n\n\n∑c\n\n·mn\n\n\n˛a\n6e\n0`i\n0o\n\nCy\nG√\na\n2ÖeˇÇfkno\n\nCu\n\nCy\n\nÚz\nG√\n\n∑c\n~5k\n l\n\n·mw\n&•≈\n\n\nÚc\nQei\n\n˘k\n\"s"
-"9	LINE	0
-	ìon}snnIunnIynnt√≤cnnhmn~tnn'ÛanÉªcnnIennn˛a^$ein0onnCunG√
-|3,0,9,1,1,0,1627098091,"ìo\n}s\n\nIu\n\nIy\n\nt√≤c\n\nhm\n~t\n\n'Ûa\nÉªc\n\nIe\n\n\n˛a^$ei\n0o\n\nCu\nG√"
-"-	CHAR	0
-	u
-|3,0,36,0,1,0,1627062034,"u"
-
-# Zak≈Çadki w plikach:
-'0  1  0  ~/.dotfiles
-|4,48,1,0,1627478799,"~/.dotfiles"
-'1  36  2  ~/.vim/vimrc
-|4,49,36,2,1627478780,"~/.vim/vimrc"
-'2  36  26  ~/.vim/vimrc
-|4,50,36,26,1627478729,"~/.vim/vimrc"
-'3  1  0  ~/.vim/vimrc
-|4,51,1,0,1627478697,"~/.vim/vimrc"
-'4  1  0  ~/.vim/vimrc
-|4,52,1,0,1627478697,"~/.vim/vimrc"
-'5  1  0  ~/.vim/vimrc
-|4,53,1,0,1627478697,"~/.vim/vimrc"
-'6  1  0  ~/.vim/vimrc
-|4,54,1,0,1627478697,"~/.vim/vimrc"
-'7  1  0  ~/.vim/vimrc
-|4,55,1,0,1627477602,"~/.vim/vimrc"
-'8  1  0  ~/.vim/vimrc
-|4,56,1,0,1627477602,"~/.vim/vimrc"
-'9  1  0  ~/.vim/vimrc
-|4,57,1,0,1627477602,"~/.vim/vimrc"
-
-# Lista odniesie≈Ñ (poczƒÖwszy od najnowszych):
--'  1  0  ~/.dotfiles
-|4,39,1,0,1627478799,"~/.dotfiles"
--'  36  2  ~/.vim/vimrc
-|4,39,36,2,1627478780,"~/.vim/vimrc"
--'  36  2  ~/.vim/vimrc
-|4,39,36,2,1627478780,"~/.vim/vimrc"
--'  1  0  ~/.vim/vimrc
-|4,39,1,0,1627478738,"~/.vim/vimrc"
--'  1  0  ~/.vim/vimrc
-|4,39,1,0,1627478738,"~/.vim/vimrc"
--'  36  26  ~/.vim/vimrc
-|4,39,36,26,1627478729,"~/.vim/vimrc"
--'  36  26  ~/.vim/vimrc
-|4,39,36,26,1627478729,"~/.vim/vimrc"
--'  1  0  ~/.vim/vimrc
-|4,39,1,0,1627478708,"~/.vim/vimrc"
--'  1  0  ~/.vim/vimrc
-|4,39,1,0,1627478708,"~/.vim/vimrc"
--'  1  0  ~/.vim/vimrc
-|4,39,1,0,1627478697,"~/.vim/vimrc"
--'  1  0  ~/.vim/vimrc
-|4,39,1,0,1627478697,"~/.vim/vimrc"
--'  1  0  ~/.vim/vimrc
-|4,39,1,0,1627477602,"~/.vim/vimrc"
--'  1  0  ~/.vim/vimrc
-|4,39,1,0,1627477602,"~/.vim/vimrc"
--'  1  0  ~/.vim/vimrc
-|4,39,1,0,1627476791,"~/.vim/vimrc"
--'  1  0  ~/.vim/vimrc
-|4,39,1,0,1627476791,"~/.vim/vimrc"
--'  1  0  ~/.vim/vimrc
-|4,39,1,0,1627098102,"~/.vim/vimrc"
--'  1  0  ~/.vim/vimrc
-|4,39,1,0,1627098102,"~/.vim/vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
--'  27  27  ~/.vimrc
-|4,39,27,27,1627098017,"~/.vimrc"
-
-# Historia zak≈Çadek w plikach (od najnowszych po najstarsze):
-
-> ~/.dotfiles
-	*	1627478789	0
-	"	1	0
-
-> ~/.vim/vimrc
-	*	1627478745	0
-	"	36	2
-	^	36	27
-	.	36	26
-	+	36	26
-
-> scp bike123@basrsavia.com:.vim/vimrc
-	*	1627477588	0
-	"	1	0
-
-> ~/.vimrc
-	*	1627098017	0
-	"	27	27
-	^	27	28
-	.	27	27
-	+	27	0
-	+	29	57
-	+	20	0
-	+	26	0
-	+	29	0
-	+	7	0
-	+	27	0
-	+	20	9
-	+	38	16
-	+	30	40
-	+	32	44
-	+	37	0
-	+	35	46
-	+	37	0
-	+	30	0
-	+	27	16
-	+	38	0
-	+	27	26
-	+	27	15
-	+	27	0
-	+	38	30
-	+	38	33
-	+	38	0
-	+	2	0
-	+	27	0
-	+	20	0
-	+	8	0
-	+	3	0
-	+	1	0
-	+	10	0
-	+	11	0
-	+	20	0
-	+	9	0
-	+	12	0
-	+	13	0
-	+	27	0
-	+	20	0
-	+	14	7
-	+	27	0
-	+	15	0
-	+	17	0
-	+	18	0
-	+	19	0
-	+	21	0
-	+	22	0
-	+	24	0
-	+	27	0
-	+	36	26
-	+	27	27
-
-> ~/tmp.f
-	*	1627063050	0
-	"	24	5
-	^	1	6
-	.	1	6
-	+	2	30
-	+	28	33
-	+	3	0
-	+	1	6
-
-> ~/.bash.btb
-	*	1626884668	0
-	"	12	0
-	^	7	41
-	.	7	41
-	+	8	0
-	+	3	8
-	+	29	0
-	+	33	0
-	+	36	0
-	+	9	0
-	+	12	0
-	+	31	6
-	+	37	5
-	+	31	0
-	+	37	0
-	+	8	7
-	+	30	0
-	+	31	0
-	+	30	41
-	+	31	0
-	+	30	17
-	+	31	0
-	+	30	25
-	+	38	0
-	+	29	0
-	+	15	0
-	+	16	0
-	+	29	0
-	+	15	27
-	+	16	39
-	+	17	0
-	+	3	0
-	+	8	0
-	+	4	0
-	+	7	41
-
-> ~/.bashrc
-	*	1626884649	0
-	"	1	0
-	.	40	0
-	+	2	0
-	+	40	0
-
-> ~/.bash_profile
-	*	1626884633	0
-	"	13	0
-	^	13	1
-	.	13	0
-	+	9	19
-	+	12	0
-	+	13	0
-	+	34	33
-	+	4	28
-	+	9	0
-	+	4	27
-	+	8	0
-	+	34	0
-	+	3	0
-	+	3	11
-	+	34	0
-	+	34	19
-	+	34	0
-	+	34	17
-	+	13	0
-	+	34	0
-	+	13	0
-	+	3	0
-	+	34	19
-	+	13	0
-	+	14	0
-	+	4	27
-	+	4	30
-	+	37	0
-	+	5	0
-	+	4	0
-	+	5	0
-	+	9	0
-	+	7	0
-	+	5	41
-	+	28	12
-	+	37	0
-	+	6	1
-	+	1	0
-	+	13	0
-
-> ~/tmp/vimrc.win
-	*	1624862394	0
-	"	1	0
-	^	1	0
-	.	39	11
-	+	1	8
-	+	1	36
-	+	39	11
-
-> ~/tmp/sudoers.barsavia
-	*	1617605758	0
-	"	4	3
-
-> ~/tmp/sudoers
-	*	1617605757	0
-	"	64	3
-	^	64	4
-	.	64	3
-	+	64	3
-
-> ~/tmp/env.barsavia
-	*	1617605645	0
-	"	32	0
-
-> ~/tmp/env
-	*	1617605644	0
-	"	41	0
-
-> ~/test/.bash.btb
-	*	1617521434	0
-	"	9	0
-
-> ~/test/.bashrc
-	*	1615296474	0
-	"	1	1
-
-> ~/test/.bash_profile
-	*	1615296430	0
-	"	8	0
-
-> ~/sudoers
-	*	1615286293	0
-	"	1	0
-
-> /etc/ssh/ssh_config.d/50-redhat.conf
-	*	1615286219	0
-	"	1	0
-
-> /etc/ssh/ssh_config
-	*	1615286206	0
-	"	55	0
-
-> /etc/ssh/ssh
-	*	1615286187	0
-	"	1	0
-
-> ~/.ssh/known_hosts
-	*	1615130964	0
-	"	17	0
-	.	17	0
-	+	1	0
-	+	17	0
-
-> ~/mail/sent-mail
-	*	1612547535	0
-	"	1	0
-
-> ~/.vim/.sh
-	*	1604682868	0
-	"	3	0
-	^	3	0
-	.	2	0
-	+	2	0
