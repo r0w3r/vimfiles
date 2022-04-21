@@ -1,2 +1,5 @@
 .netrwhist
 view/*
+viminfo
+vimrc_
+.vimrc.*
