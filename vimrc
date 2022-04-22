@@ -26,6 +26,7 @@ syntax on
  set signcolumn=yes
  set ruler
  set spell spelllang=pl,en_us
+ set splitbelow
 
 autocmd FileType netrw setl bufhidden=delete " or use :qa!
 nnoremap ,sh :-1read $HOME/.vim/sh<CR>1j"read file and add to open file
